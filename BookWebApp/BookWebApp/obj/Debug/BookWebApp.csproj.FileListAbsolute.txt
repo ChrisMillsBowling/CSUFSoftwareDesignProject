@@ -1,0 +1,15 @@
+C:\Users\CMB\Documents\GitHub\CSUFSoftwareDesignProject\BookWebApp\BookWebApp\bin\Debug\BookWebApp.exe.config
+C:\Users\CMB\Documents\GitHub\CSUFSoftwareDesignProject\BookWebApp\BookWebApp\bin\Debug\BookWebApp.exe
+C:\Users\CMB\Documents\GitHub\CSUFSoftwareDesignProject\BookWebApp\BookWebApp\bin\Debug\BookWebApp.pdb
+C:\Users\CMB\Documents\GitHub\CSUFSoftwareDesignProject\BookWebApp\BookWebApp\obj\Debug\BookWebApp.csprojAssemblyReference.cache
+C:\Users\CMB\Documents\GitHub\CSUFSoftwareDesignProject\BookWebApp\BookWebApp\obj\Debug\MainWindow.g.cs
+C:\Users\CMB\Documents\GitHub\CSUFSoftwareDesignProject\BookWebApp\BookWebApp\obj\Debug\App.g.cs
+C:\Users\CMB\Documents\GitHub\CSUFSoftwareDesignProject\BookWebApp\BookWebApp\obj\Debug\BookWebApp_MarkupCompile.cache
+C:\Users\CMB\Documents\GitHub\CSUFSoftwareDesignProject\BookWebApp\BookWebApp\obj\Debug\BookWebApp_MarkupCompile.lref
+C:\Users\CMB\Documents\GitHub\CSUFSoftwareDesignProject\BookWebApp\BookWebApp\obj\Debug\MainWindow.baml
+C:\Users\CMB\Documents\GitHub\CSUFSoftwareDesignProject\BookWebApp\BookWebApp\obj\Debug\BookWebApp.g.resources
+C:\Users\CMB\Documents\GitHub\CSUFSoftwareDesignProject\BookWebApp\BookWebApp\obj\Debug\BookWebApp.Properties.Resources.resources
+C:\Users\CMB\Documents\GitHub\CSUFSoftwareDesignProject\BookWebApp\BookWebApp\obj\Debug\BookWebApp.csproj.GenerateResource.cache
+C:\Users\CMB\Documents\GitHub\CSUFSoftwareDesignProject\BookWebApp\BookWebApp\obj\Debug\BookWebApp.csproj.CoreCompileInputs.cache
+C:\Users\CMB\Documents\GitHub\CSUFSoftwareDesignProject\BookWebApp\BookWebApp\obj\Debug\BookWebApp.exe
+C:\Users\CMB\Documents\GitHub\CSUFSoftwareDesignProject\BookWebApp\BookWebApp\obj\Debug\BookWebApp.pdb
