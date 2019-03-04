@@ -32,7 +32,10 @@ namespace SoftDesignProject
         protected void LoginButton_Click(object sender, EventArgs e)
         {
             if (Login1.UserName == "admin") {
-                
+                //redirect to administrator page when using "admin"
+            }
+            if (Login1.UserName == "email") {
+                //redirect to user page when using standard email login (stored in some document)
             }
         }
     }
