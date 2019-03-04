@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="LoginForm.aspx.cs" Inherits="SoftDesignProject.LoginForm" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="LoginForm.aspx.cs" Inherits="SoftDesignProject.LoginForm" %>
 
 <!DOCTYPE html>
 
@@ -11,7 +11,7 @@
         }
     </style>
 </head>
-<body>
+<body style="height: 355px; width: 227px">
     <form id="form1" runat="server">
         <div>
             Welcome to Bob&#39;s Bangin&#39; Books:</div>
