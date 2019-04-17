@@ -33,6 +33,9 @@ namespace SoftDesignProject
         {
             if (Login1.UserName == "admin") {
                 //redirect to administrator page when using "admin"
+                Welcome.USERNAME = Login1.UserName;
+                Response.Redirect("Welcome.aspx");
+                
             }
             if (Login1.UserName == "email") {
                 //redirect to user page when using standard email login (stored in some document)
