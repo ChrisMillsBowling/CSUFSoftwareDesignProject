@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -31,15 +31,32 @@ namespace SoftDesignProject
 
         protected void LoginButton_Click(object sender, EventArgs e)
         {
+            string[] userbase = { "bob", "chris", "hunter" };
             if (Login1.UserName == "admin") {
-                //redirect to administrator page when using "admin"
-                Welcome.USERNAME = Login1.UserName;
-                Response.Redirect("Welcome.aspx");
-                
+                if (Login1.Password == "password")
+                {
+                    //redirect to administrator page when using "admin"
+                    Welcome.USERNAME = Login1.UserName;
+                    Response.Redirect("Welcome.aspx");
+                }
             }
-            if (Login1.UserName == "email") {
-                //redirect to user page when using standard email login (stored in some document)
+            foreach (string x in userbase)
+            {
+                if (Login1.UserName.Contains(x))
+                {
+                    //redirect to user page when using standard email login (stored in string array)
+                    Welcome.USERNAME = Login1.UserName;
+                    Response.Redirect("Welcome.aspx");
+                }
             }
+        }
+        protected void AboutUs_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("About.aspx");
+        }
+        protected void ContactUs_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("Contact.aspx");
         }
     }
 }
