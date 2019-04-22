@@ -72,6 +72,10 @@
             <TitleTextStyle BackColor="#990000" Font-Bold="True" Font-Size="0.9em" ForeColor="White" />
         </asp:Login>
         <asp:Image ID="Image1" runat="server" Height="173px" ImageUrl="~/Content/old-tome-story-book.jpg" Width="219px" />
+        <p>
+                                        <asp:Button ID="AboutUs" runat="server" BackColor="White" BorderColor="#CC9966" BorderStyle="Solid" BorderWidth="1px" CommandName="About" Font-Names="Verdana" Font-Size="0.8em" ForeColor="#990000" OnClick="LoginButton_Click" Text="About Us" ValidationGroup="About1" />
+                                        <asp:Button ID="ContactUs" runat="server" BackColor="White" BorderColor="#CC9966" BorderStyle="Solid" BorderWidth="1px" CommandName="Contact" Font-Names="Verdana" Font-Size="0.8em" ForeColor="#990000" OnClick="LoginButton_Click" Text="Contact Us" ValidationGroup="Contact1" />
+                                    </p>
     </form>
 </body>
 </html>
